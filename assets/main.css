@@ -41,7 +41,7 @@ li a{
     margin-top: 15%;
 }
 .col-5 img{
- width: 200px;
+ width: 150px;
  margin-right: 30px;
  margin-top: 25%;
  border-radius: 30px;
@@ -69,9 +69,14 @@ button{
 .anchor a{
     color: var(--color3);
     padding: 10px;
+    margin-left: 40px;
 }
 footer{
     width: 100%;
-    border: 1px solid;
-    border-color: white;
+    
+
+}
+.email p{
+    font-size: 12px;
+    text-align: center;
 }
