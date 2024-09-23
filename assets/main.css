@@ -33,6 +33,11 @@ li a{
     text-decoration: none;
     
 }
+li a:hover{
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 3px;
+}
 .row{
     padding: 10px;
     
@@ -92,4 +97,17 @@ footer{
     .email{
         margin-left: 10%;
     }
+    li{
+     margin-right: 50px;
+    }
+    p{
+        margin-left: 90px;
+    }
+    button{
+        margin-left: 90px;
+    }
+}
+@media screen  and (min-width:375px){
+ 
+    
 }
