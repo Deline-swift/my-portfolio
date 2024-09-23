@@ -80,3 +80,16 @@ footer{
     font-size: 12px;
     text-align: center;
 }
+@media screen  and (min-width:500px){
+  
+    .col-5 img{
+        width:300px;
+    }
+    .anchor{
+
+        text-align: center;
+    }
+    .email{
+        margin-left: 10%;
+    }
+}
